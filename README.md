@@ -6,7 +6,8 @@
 
 - Python 3.7以上
 - GCCコンパイラ
-- 必要なPythonパッケージ（requirements.txtに記載）
+- 必要なPythonパッケージ（requirements.txtに記載）  
+- NCads H100 v5 (GPU/Linux-Ubuntu)  
 
 ## インストール方法
 
