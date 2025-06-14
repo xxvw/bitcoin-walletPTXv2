@@ -8,6 +8,7 @@
 - GCCコンパイラ
 - 必要なPythonパッケージ（requirements.txtに記載）  
 - NCads H100 v5 (GPU/Linux-Ubuntu)  
+推奨 Azure Standard_NC80adis_H100_v5 Instance  
 
 ## インストール方法
 
